@@ -1,4 +1,4 @@
-# MATLAB_PSO_inverse_method
+# MATLAB_PSO_inverse_method (KDW-VG model)
 Here, the MATLAB code for preferential water flow modeling using the KDW-VG model through a particle swarm optimization (PSO) inverse method is shared.
 Here, we aim to solve the KDW-VG model using the Particle Swarm Optimization (PSO) inverse method.
 All five MATLAB files should be opened.
